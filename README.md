@@ -1,5 +1,3 @@
-
-
 <p  align="center">
 
 <img  src="https://user-images.githubusercontent.com/21200584/224684261-cfd9d151-91f5-4c31-8cfa-93cac25295e5.png"  alt="MTGABABYYY">
@@ -17,6 +15,7 @@ This Github source WILL be missing code that relates to security and how we encr
 ## Screenshots
 ### MTGA Fork Workshop
 ![image](https://github.com/Make-Tarkov-Great-Again/MTGO-Launcher/assets/70953258/a984f21b-9f46-4969-9ec7-eab07ddfa8bf)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEFHDev%2FMTGO-Launcher.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEFHDev%2FMTGO-Launcher?ref=badge_shield)
 
 Planning on Forking MTGA for your project? Contact us! You can have one of these to call your own, and have full creative control over it!
 
@@ -121,3 +120,6 @@ Feel free to create a fork, open a pull request and request a review: **We are o
   
 
 <p  align="center"><img  src = "https://user-images.githubusercontent.com/21200584/183050357-6c92f1cd-68ca-4f74-b41d-1706915c67cf.gif"></p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEFHDev%2FMTGO-Launcher.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEFHDev%2FMTGO-Launcher?ref=badge_large)
